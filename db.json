@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nombre": "Martincho Pro",
+      "email": "martinchopro@gmail.com",
+      "edad": 11212
+    },
+    {
+      "id": 2,
+      "nombre": "Juancho Lopez",
+      "email": "juancho@gmail.com",
+      "edad": 38
+    },
+    {
+      "nombre": "Pepazo Lepou",
+      "email": "pepelepou@gmail.com",
+      "edad": 30,
+      "id": 8
+    },
+    {
+      "nombre": "Jorge",
+      "email": "jorge@gmail.com",
+      "edad": 40,
+      "id": 9
+    },
+    {
+      "nombre": "Mariana Lopez",
+      "email": "marianalopez@gmail.com",
+      "edad": 33,
+      "id": 10
+    },
+    {
+      "nombre": "Sergio Ricardo",
+      "email": "sergio@gmail.com",
+      "edad": 45,
+      "id": 11
+    }
+  ]
+}
